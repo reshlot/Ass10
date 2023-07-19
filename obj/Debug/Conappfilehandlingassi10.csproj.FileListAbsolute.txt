@@ -1,0 +1,8 @@
+D:\Simplilearn\Day8\Assignment\Conappfilehandlingassi10\Conappfilehandlingassi10\obj\Debug\Conappfilehandlingassi10.csproj.AssemblyReference.cache
+D:\Simplilearn\Day8\Assignment\Conappfilehandlingassi10\Conappfilehandlingassi10\obj\Debug\Conappfilehandlingassi10.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day8\Assignment\Conappfilehandlingassi10\Conappfilehandlingassi10\obj\Debug\Conappfilehandlingassi10.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day8\Assignment\Conappfilehandlingassi10\Conappfilehandlingassi10\bin\Debug\Conappfilehandlingassi10.exe.config
+D:\Simplilearn\Day8\Assignment\Conappfilehandlingassi10\Conappfilehandlingassi10\bin\Debug\Conappfilehandlingassi10.exe
+D:\Simplilearn\Day8\Assignment\Conappfilehandlingassi10\Conappfilehandlingassi10\bin\Debug\Conappfilehandlingassi10.pdb
+D:\Simplilearn\Day8\Assignment\Conappfilehandlingassi10\Conappfilehandlingassi10\obj\Debug\Conappfilehandlingassi10.exe
+D:\Simplilearn\Day8\Assignment\Conappfilehandlingassi10\Conappfilehandlingassi10\obj\Debug\Conappfilehandlingassi10.pdb
